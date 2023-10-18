@@ -17,4 +17,9 @@ data analysis of service request (311) calls from New York City. You've also bee
 * Plot a bar graph of count vs. complaint types
 * Find the top 10 types of complaints
 * Display the types of complaints in each city in a separate dataset
+### Visualize the major types of complaints in each city
+
+### Check if the average response time across various types of complaints
+
+### Identify significant variables by performing a statistical analysis using p-values and chi-square values (Optional)
  
